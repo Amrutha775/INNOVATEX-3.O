@@ -43,3 +43,19 @@ Built during a 24-hour hardware hackathon, this project combines sustainability,
 ---
 
 
+## 🚀 Future Scope
+
+- Add AI-based crop monitoring 🌾🧠  
+- Integrate GPS for autonomous navigation 📍  
+- Expand sensor range and battery life 🔋
+
+---
+
+## 🙌 Acknowledgements
+
+Thanks to **Presidency University** and the **InnovateX 3.0** organizers for the opportunity and platform to build something meaningful 💚
+
+
+
+
+
