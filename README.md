@@ -2,6 +2,7 @@
 # 🌱 Bhoomiputhra – Solar-Powered Smart Agri Bot 🤖🌞
 
 > A multi-tasking farming automation bot, built in 24 hours at the **Hardwired Hackathon** – InnovateX 3.0, Presidency University 🚀
+📅 **Date:** 15th & 16th April 2025
 
 ---
 
