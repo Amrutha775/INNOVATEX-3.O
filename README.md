@@ -16,11 +16,7 @@ Built during a 24-hour hardware hackathon, this project combines sustainability,
 In an era where agriculture faces challenges like labor shortages, unpredictable weather, and water scarcity, Bhoomiputhra offers a **low-cost, energy-efficient** solution to reduce manual effort, optimize resources, and improve crop health 🌾
 
 ---
-## 🤖 Meet Bhoomiputhra
 
-Here's a look at our solar-powered smart agri bot in action! 🌞🚜
-
-![Bhoomiputhra Bot](C:\Users\Amrutha B N\Desktop\BhoomiPuthra.jpeg)
 
 
 ## 🌾 How It Helps Farmers
