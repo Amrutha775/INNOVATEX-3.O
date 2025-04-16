@@ -81,15 +81,18 @@ In an era where agriculture faces challenges like labor shortages, unpredictable
 Thanks to **Presidency University** and the **InnovateX 3.0** organizers for the opportunity and platform to build something meaningful 💚
 ---
 
+---
+
 ## 🌻 Final Thought
 
-> _"The farmer is the one who works from sunrise to sunset, not for wealth or fame, but to feed a world that often forgets his name."_  
+> _"When we hold a grain of rice, we hold a piece of a farmer’s soul — sown with sweat, grown with hope, and harvested with love."_
 
-Bhoomiputhra is more than just a project — it’s our small tribute to the tireless spirit of every farmer.  
-With technology as an ally, we hope to make their lives a little easier, their fields a little greener,  
-and their harvests a little richer.
+**Bhoomiputhra** is not just a robot; it’s a step toward honoring the hands that feed us.  
+Through innovation, we dream of a future where no farmer is left behind — where technology walks beside tradition,  
+and every field flourishes with dignity.
 
-🌿 **Let’s build a future where innovation grows from the soil up.** 💚
+🌾 **To every farmer out there — this one's for you.** ❤️
+
 
 
 
